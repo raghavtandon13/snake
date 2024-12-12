@@ -1,0 +1,13 @@
+-Iinclude
+-IC:/Users/ragha/scoop/apps/raylib-mingw/current/include
+-LC:/Users/ragha/scoop/apps/raylib-mingw/current/lib
+-lraylib
+-lopengl32
+-lgdi32
+-lwinmm
+-std=c++17
+-Wall
+-Wextra
+-Werror
+-Wno-missing-field-initializers
+--target=x86_64-pc-windows-gnu
