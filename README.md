@@ -95,9 +95,3 @@ A classic Snake game implemented using **Raylib**. This project showcases object
 - Developed by: **[Raghav]**
 - Built with: [Raylib](https://www.raylib.com/)
 
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
